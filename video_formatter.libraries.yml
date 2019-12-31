@@ -1,0 +1,9 @@
+video_formatter:
+  version: 1.x
+  css:
+    component:
+      css/videoformatter.css: {}
+  js:
+    js/videoformatter.js: {}
+  dependencies:
+    - core/jquery 
