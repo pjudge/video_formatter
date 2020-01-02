@@ -1,7 +1,6 @@
 name: Video Formatter
 type: module
-description: 'Add an formatter for remote video media entity refernce field.'
+description: 'Adds a formatter for remote video media entity reference field for lazy loading videos.'
 package: Field types
-version: '1.0'
 core: '8.x'
 project: 'video_formatter'
