@@ -8,7 +8,7 @@
       $(document).ready(function() {
     
         var video_wrapper = $('.yt-video-embed', context);
-        // Check to see if youtube wrapper exists
+        // Check to see if youtube wrapper exists.
         if (video_wrapper.length) {
           // If user clicks on the video wrapper load the video.
           video_wrapper.on('click', function(){
